@@ -24,7 +24,7 @@ Before running the application, make sure you have the following installed:
 - [Maven](https://maven.apache.org/) (or you can use the built-in Maven wrapper)
 
 # Clone the repository
-git clone https://github.com/Priyansu2002/E-Commerce-App.git
+git clone https://github.com/Priyansu2002/E-Commerce-App-Frontend.git
 
 # Navigate to the project directory
 cd ECOM-FRONTEND-5-MAIN
